@@ -1,3 +1,4 @@
 1. a 파일생성
 2 git
 3 develop branch에서 작업
+4 main branch에서 작업
